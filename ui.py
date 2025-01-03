@@ -30,7 +30,7 @@ class UIManager:
     def draw_level(self):
         """顯示關卡"""
         level_text = self.font.render(f"Level: {self.level}", True, WHITE)
-        self.screen.blit(level_text, (10, 50))
+        self.screen.blit(level_text, (150, 10))
 
     def show_start_message(self):
         """顯示開始訊息"""
