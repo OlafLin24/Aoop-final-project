@@ -16,3 +16,13 @@
 
 #### **Power-ups**
 - Collect special items, like the "+1" power-up, which increases the number of balls in the next round, helping you clear bricks more effectively.
+
+### **Run the Game**
+- You need to install required libraries using the following command:
+```bash
+pip install -r requirements.txt
+```
+- Run the game using the following command:
+```bash
+python3 main.py
+```
